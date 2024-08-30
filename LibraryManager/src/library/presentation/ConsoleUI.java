@@ -8,8 +8,8 @@ import library.model.Magazine;
 import java.util.Scanner;
 
 public class ConsoleUI {
-    private Library library;
-    private Scanner scanner;
+    private final Library library;
+    private final Scanner scanner;
 
     public ConsoleUI() {
         this.library = new Library();
