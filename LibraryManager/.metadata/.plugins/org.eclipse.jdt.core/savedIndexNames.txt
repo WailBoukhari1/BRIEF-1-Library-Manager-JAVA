@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\TSUKIIYA\Documents\Youcode\LibraryManager\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2499430334.index
-4059041577.index
